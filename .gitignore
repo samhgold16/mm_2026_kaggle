@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# models, maybe include?
+models/
+
+# Data files (Kaggle data - not to be shared)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
