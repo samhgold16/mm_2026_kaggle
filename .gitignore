@@ -21,3 +21,6 @@ __pycache__/
 
 # IDE
 .vscode/
+
+# photos
+outputs/*.png
